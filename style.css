@@ -1,0 +1,106 @@
+h1{ font-family: 'Poiret One', cursive; 
+text-align: center; color: black; padding: 40px;} 
+p{ font-family: 'Dosis';text-align: center; a}
+h2{font-family: 'Poiret One', cursive; 
+text-align: center; color: black; padding: 40px;}
+h3{font-family: 'Poiret One', cursive; 
+text-align: center; color: black; padding: 0,5px;}
+#logofb {font-size: 45px; padding: 25px}
+#footer {background-color: #CDC5B4;}
+#bannière {background-color: #56A3A6}
+#logolocaltrip {size: 15px}
+#email {
+	text-decoration: none;
+	color: black;
+}
+
+#trip
+{
+	background-color: #56A3A6;
+	color: white;
+}
+
+.banner h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+}
+.banner p {
+  font-size: 25px;
+  font-weight: lighter;
+  color: rgb(255, 255, 255);
+  opacity: 0.6;
+  margin-bottom: 30px;
+}
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%),  url("ecran.jpg") ;
+	height: 450px;
+	background-position: center;
+	color: white;
+    text-align: center;
+    align-items: center;
+  	justify-content: center;
+  	background-size: cover;
+  	padding: 30px;
+}
+
+
+#myTopnav{
+background-color: #235789;
+font-family: "Poiret One";
+text-align: center;
+font-size: 20px;
+height: 60px;
+margin-left: 0;
+opacity: 0.7;
+width: 100%;
+justify-content: center;
+}
+
+#myTopnav a {
+	text-decoration: none;
+	color: white;
+	font-family: 'Dosis', sans-serif;
+}
+
+.flex {
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.logo
+{
+	height: 100px;
+}
+.phrase
+{ 
+	text-align: right;
+	text-decoration-color: white;
+	opacity: 1;
+}
+
+.fa
+{ 
+	margin: 0 20px;
+}
+
+.mailchimp {font-family: poiret one;}
+
+.typo {
+	font-family: 'Dosis', sans-serif;
+	color: white;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.typo-sec {
+	font-family: 'Dosis', sans-serif;
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.full-height{
+	height: 100%;
+}
